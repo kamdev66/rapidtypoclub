@@ -1,0 +1,14 @@
+.challenge-sec-container{
+    min-height: 90vh;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px 0;
+}
+.challenge-sec-header{
+    text-align: center;
+    color: aliceblue;
+    font-family: "Bangers",cursive;
+    font-size: 64px;
+    letter-spacing: 4px;
+    
+}

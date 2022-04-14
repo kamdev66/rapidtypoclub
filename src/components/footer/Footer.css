@@ -1,0 +1,14 @@
+.footer-container{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    margin: 0;
+    z-index: 99;
+}
+
+.footer-link{
+    font-size: 28px;
+    color: bisque;
+    margin: 10px;
+    text-align: center;
+}
