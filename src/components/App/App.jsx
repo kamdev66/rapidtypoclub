@@ -6,7 +6,7 @@ import NavBar from "../NavBar/NavBar";
 import { SAMPLE_PARAGRAPHS } from './../../data/sampleParagraphs'
 import './App.css';
 
-const totalTime=2;
+const totalTime=60;
 const ServiceUrl="http://metaphorpsum.com/paragraphs/1/9";
 const DefaultState={
     selectedParagraph: "Hello world!",
