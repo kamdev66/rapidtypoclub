@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rapidtypoclub/static/css/main.55e44c14.css",
+    "main.js": "/rapidtypoclub/static/js/main.14158b9d.js",
+    "static/media/Flash-PNG-Pic.png": "/rapidtypoclub/static/media/Flash-PNG-Pic.48e731f576c2f219ba79.png",
+    "static/media/logo.png": "/rapidtypoclub/static/media/logo.904ac8fd0f7b25e86967.png",
+    "index.html": "/rapidtypoclub/index.html",
+    "main.55e44c14.css.map": "/rapidtypoclub/static/css/main.55e44c14.css.map",
+    "main.14158b9d.js.map": "/rapidtypoclub/static/js/main.14158b9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55e44c14.css",
+    "static/js/main.14158b9d.js"
+  ]
+}
